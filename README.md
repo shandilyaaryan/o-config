@@ -1,1 +1,4 @@
-My personal Omarchy Config files.
+My personal Omarchy Config files. \[UPDATED]
+
+
+
